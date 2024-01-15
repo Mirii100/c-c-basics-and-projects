@@ -1,0 +1,30 @@
+body{
+   background-color: aqua;
+}
+#count{
+    text-align: center;
+    margin-left: 50%;
+    border-radius: solid blue;
+}
+#container{
+    margin-left: 40%;
+    opacity: 10;
+    border-color: brown;
+    border: 10px solid rgb(red, green, blue);
+    background-color:rgb(rgb(24, 34, 65), green, blue);
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+    padding: 10px;
+    margin-left: 10px;
+    transition: backgground-color 1s;
+}
+button:hover{
+    background-color: green;
+    color: blue;
+}
+#random{
+    text-decoration: solid black;
+}
